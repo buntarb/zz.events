@@ -1,6 +1,6 @@
 {
 	"name": "zz.events",
-	"version": "20160418.0.0",
+	"version": "20160418.0.1",
 	"description": "Imazzine-developer-lib base events module.",
 	"author": {
 		"name": "Artem Lytvynov",
@@ -17,6 +17,6 @@
 	},
 	"dependencies": {
 
-	    "imazzine-developer-kit": "^20160405.0.0"
+	    "imazzine-developer-kit": ""
 	}
 }
